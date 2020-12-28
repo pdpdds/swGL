@@ -1,0 +1,15 @@
+
+*.tlog
+*.log
+*.idb
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.exp
+*.obj
+*.recipe
+*.res
+*.lib
+*.db
+.vs/swGL/v16/.suo
